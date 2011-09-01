@@ -22,6 +22,7 @@ eSpeak is a compact open source software speech synthesizer for English and othe
 eSpeak-Chinese: http://www.eguidedog.net/espeak_chinese.php
 
 WebSpeech - Javascript library for web developers who want to write pages with voice: http://sourceforge.net/projects/e-guidedog/files/WebSpeech/ ; http://sourceforge.net/projects/e-guidedog/files/WebSpeech/WebSpeech-2.0.tar.bz2/download
+Most recent: http://sourceforge.net/projects/e-guidedog/files/
 
 部署支持粤语、普通话、英语和其它语言的WebAnywhere服务器，提供给公众使用: http://wa.eguidedog.net
 
