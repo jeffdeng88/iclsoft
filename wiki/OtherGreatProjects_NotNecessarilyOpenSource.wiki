@@ -23,6 +23,7 @@ eSpeak-Chinese: http://www.eguidedog.net/espeak_chinese.php
 
 WebSpeech - Javascript library for web developers who want to write pages with voice: http://sourceforge.net/projects/e-guidedog/files/WebSpeech/ ; http://sourceforge.net/projects/e-guidedog/files/WebSpeech/WebSpeech-2.0.tar.bz2/download
 
+部署支持粤语、普通话、英语和其它语言的WebAnywhere服务器，提供给公众使用: http://wa.eguidedog.net
 
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
