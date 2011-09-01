@@ -21,6 +21,7 @@ eSpeak is a compact open source software speech synthesizer for English and othe
 
 eSpeak-Chinese: http://www.eguidedog.net/espeak_chinese.php
 
+WebSpeech - Javascript library for web developers who want to write pages with voice: http://sourceforge.net/projects/e-guidedog/files/WebSpeech/
 
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
