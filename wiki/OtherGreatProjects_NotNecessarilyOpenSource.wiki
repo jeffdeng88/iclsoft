@@ -25,6 +25,8 @@ WebSpeech - Javascript library for web developers who want to write pages with v
 
 部署支持粤语、普通话、英语和其它语言的WebAnywhere服务器，提供给公众使用: http://wa.eguidedog.net
 
+You can also setup your own Web TTS server with the help of WebAnywhere's document: http://code.google.com/p/webanywhere/wiki/Installation#Deploy_eSpeak_TTS_server_(optional)
+
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
   * Automatic links to other wiki pages
