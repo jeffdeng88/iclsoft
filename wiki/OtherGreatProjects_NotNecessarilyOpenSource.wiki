@@ -16,6 +16,9 @@ http://ankisrs.net/
 Its engine libanki is open source:
 http://code.google.com/p/anki/downloads/list
 
+  * eSpeak: http://espeak.sourceforge.net/
+eSpeak is a compact open source software speech synthesizer for English and other languages, for Linux and Windows.
+
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
   * Automatic links to other wiki pages
