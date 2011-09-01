@@ -13,6 +13,9 @@ Anyone who needs to remember things in their daily life can benefit from Anki. S
 
 http://ankisrs.net/
 
+Its engine libanki is open source:
+http://code.google.com/p/anki/downloads/list
+
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
   * Automatic links to other wiki pages
