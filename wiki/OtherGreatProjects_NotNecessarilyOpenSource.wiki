@@ -13,7 +13,7 @@ Anyone who needs to remember things in their daily life can benefit from Anki. S
 
 http://ankisrs.net/
 
-Its engine libanki is open source:
+Its engine libanki is open source written in Python:
 http://code.google.com/p/anki/downloads/list
 
   * eSpeak: http://espeak.sourceforge.net/
