@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+"http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+
+<!--
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+  <group id="DocbookDTD" prefer="public">
+      <system  
+         systemId="http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd"
+         uri="file:///usr/share/xml/docbook45/docbookx.dtd"/>
+  </group>
+</catalog>
+-->
+
+<article>
+  <articleinfo>
+    <title></title>
+
+    <author>
+      <firstname>none</firstname>
+
+      <surname></surname>
+
+      <affiliation>
+        <orgname>nnn</orgname>
+      </affiliation>
+    </author>
+
+    <pubdate>today</pubdate>
+  </articleinfo>
+
+  <section>
+    <title>section 1</title>
+
+    <para>街道宽，街道长，</para>
+
+    <para> 街道交通真是忙。 </para>
+
+    <para>好在有了红绿灯， </para>
+
+    <para>人来车往很通畅。</para>
+
+    <para></para>
+
+    <para>弟弟妹妹手拉手， 一起走到街道口。 看见红灯停一停， 看见绿灯往前走。 </para>
+  </section>
+</article>
