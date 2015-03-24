@@ -1,0 +1,32 @@
+#Other Great Projects
+# Introduction #
+
+We'll continue reviewing any great projects that enhance language learning
+
+
+# Details #
+
+  * Anki is a program which makes remembering things easy. Because it is a lot more efficient than traditional study methods, you can either greatly decrease your time spent studying, or greatly increase the amount you learn.
+
+Anyone who needs to remember things in their daily life can benefit from Anki. Since it is content-agnostic and supports images, audio, videos and scientific markup (via LaTeX), the possibilities are endless.
+
+http://ankisrs.net/
+
+Its engine libanki is open source written in Python:
+http://code.google.com/p/anki/downloads/list
+
+  * eSpeak: http://espeak.sourceforge.net/
+eSpeak is a compact open source software speech synthesizer for English and other languages, for Linux and Windows.
+
+eSpeak-Chinese: http://www.eguidedog.net/espeak_chinese.php
+
+WebSpeech - Javascript library for web developers who want to write pages with voice: http://sourceforge.net/projects/e-guidedog/files/WebSpeech/ ; http://sourceforge.net/projects/e-guidedog/files/WebSpeech/WebSpeech-2.0.tar.bz2/download
+Most recent: http://sourceforge.net/projects/e-guidedog/files/
+
+部署支持粤语、普通话、英语和其它语言的WebAnywhere服务器，提供给公众使用: http://wa.eguidedog.net
+
+You can also setup your own Web TTS server with the help of WebAnywhere's document: http://code.google.com/p/webanywhere/wiki/Installation#Deploy_eSpeak_TTS_server_(optional)
+
+  * Text in **bold** or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
